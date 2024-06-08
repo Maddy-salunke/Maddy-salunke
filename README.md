@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Django Project<br>👯 I’m looking to collaborate on:<br>Python and Web projects<br><br>🌱 I’m currently learning:<br>Web Frameworks.<br><br>💬 Ask me about:<br>Python Programming
+🔭 I’m currently working on:<br>Django Project<br>👯 I’m looking to collaborate on:<br>Python and Web projects<br><br>🌱 I’m currently learning:<br>Web Frameworks.<br>Manual Testing<br><br>💬 Ask me about:<br>Python Programming
 
 
 # 💻 Tech Stack:
